@@ -1,7 +1,6 @@
 import os, sys  
-  
-  
-sys.path.append('c:/wamp/www/')  
+
+sys.path.append('c:/Sites/')  
   
   
 os.environ['DJANGO_SETTINGS_MODULE'] = 'cgevam.settings'  
